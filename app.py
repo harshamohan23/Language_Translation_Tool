@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit as st
 from deep_translator import GoogleTranslator
 
 st.set_page_config(
@@ -45,5 +44,6 @@ if st.button("Translate"):
         st.text_area(
             "Translated Text",
             translated,
-            height=180
+            height=180,
+            disabled=True
         )
