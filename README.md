@@ -50,7 +50,7 @@ CodeAlpha_Language_Translation_Tool/
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/harshamohan23/Language_Translation_Tool.git
 ```
 
 Install dependencies:

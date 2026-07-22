@@ -3,8 +3,9 @@ import streamlit as st
 from deep_translator import GoogleTranslator
 
 st.set_page_config(
-    page_title="Language Translator",
-    page_icon="🌍"
+    page_title="Language Translation Tool",
+    page_icon="🌍",
+    layout="centered"
 )
 
 st.title("🌍 Language Translation Tool")
