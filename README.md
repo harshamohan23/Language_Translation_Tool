@@ -34,14 +34,14 @@ CodeAlpha_Language_Translation_Tool/
 ├── requirements.txt
 ├── README.md
 └── assets/
-    └── screenshot.png
+    └── Screenshot.png
 ```
 
 ---
 
 ## Screenshot
 
-![Application Screenshot](assets/screenshot.png)
+![Application Screenshot](assets/Screenshot.png)
 
 ---
 
