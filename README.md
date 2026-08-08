@@ -2,8 +2,6 @@
 
 A simple Language Translation Tool built using **Python**, **Streamlit**, and **deep-translator**.
 
-This project was created as **Task 1** for the CodeAlpha Artificial Intelligence Internship.
-
 ---
 
 ## Features
